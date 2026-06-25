@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alfee123-web/Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Alfee123-web/Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Alfee123-web/Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0088-merge-sorted-array) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Alfee123-web/Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
