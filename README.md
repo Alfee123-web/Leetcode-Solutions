@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Alfee123-web/Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Alfee123-web/Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0088-merge-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Alfee123-web/Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Alfee123-web/Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alfee123-web/Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alfee123-web/Questions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
 ## Design
 |  |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alfee123-web/Questions/tree/master/0160-intersection-of-two-linked-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
