@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Alfee123-web/Questions/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Alfee123-web/Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alfee123-web/Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
