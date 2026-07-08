@@ -11,25 +11,32 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-
-        if (!head || left == right)
-        //!head = empty
-            return head;
         ListNode dummy(0);
         dummy.next = head;
-        ListNode* prev = &dummy;
+        if (!head || left == right)
+            return head;
 
+        ListNode* prev = &dummy;
         for (int i = 0; i < left - 1; i++) {
-                prev = prev->next;
-            }
-            ListNode* curr = prev->next;
-            for (int i = 0; i < right - left; i++) {
-                //reverse
-                ListNode* nextN = curr->next;
-                curr->next = nextN->next;
-                nextN->next = prev->next;
-                prev->next = nextN;
-            }
-            return dummy.next;
+            prev = prev->next;
         }
-    };
+        ListNode* curr = prev->next;
+
+        for (int i = 0; i < right - left; i++) {
+            ListNode* nextNode = curr->next;
+            //target -> cut
+            curr->next = nextNode->next;
+            //target ->front
+            //back ref
+            //2->4 , 2->5
+            nextNode->next = prev->next;
+            //3->2 , 4->3
+            prev->next = nextNode;
+            //1->3 , 1->4
+        }
+
+        return dummy.next;
+    }
+};
+//1 -> 3 -> 2 -> 4 -> 5
+//1 -> 4 -> 3 -> 2 -> 5
