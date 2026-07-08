@@ -14,6 +14,6 @@ public:
         node->val = nextNode->val;
         //bypass next node
         node->next = nextNode->next;
-        delete nextNode;
+       
     }
 };
