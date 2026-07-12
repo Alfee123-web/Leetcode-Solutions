@@ -9,11 +9,12 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        ListNode *nextNode = node->next;
+        
+     
+           ListNode *next = node->next;
         //copy
-        node->val = nextNode->val;
+        node->val = next->val;
         //bypass next node
-        node->next = nextNode->next;
-       
+        node->next = next->next;
     }
 };
