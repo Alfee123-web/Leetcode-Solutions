@@ -13,27 +13,24 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode dummy(0);
         dummy.next = head;
-        ListNode* prev = &dummy;
-
-        while (head != NULL) {
-            if (head->next != NULL && head->val == head->next->val) {
-                while (head->next != NULL && head->val == head->next->val) {
-                    ListNode* temp = head;head = head->next;
+        ListNode* slow = &dummy;
+        ListNode *fast = head;
+        while (fast != NULL) {
+            if ( fast->next != NULL && fast->val == fast->next->val) {
+                while (fast->next != NULL && fast->val == fast->next->val) {
+                    ListNode* temp = fast;
+                    fast= fast->next;
                     delete temp;
                 }
-        
-            ListNode* deltail = head;
-            prev->next = head->next;
-            head = head->next;
-            delete deltail;
-            }
-            else {
-                head = head->next;
-                prev = prev->next;
+                ListNode* dupTail = fast;
+                slow->next = fast->next;
+                fast= fast->next;
+                delete dupTail;
+            } else {
+                slow = slow->next;
+                fast = fast->next;
             }
         }
-
         return dummy.next;
     }
-
 };
