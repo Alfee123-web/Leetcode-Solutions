@@ -18,13 +18,17 @@ public:
       while(prev->next && prev->next->next){
             ListNode* curr = prev->next;
             ListNode *next = prev->next->next;
-            prev->next = next;//0-2
-            curr->next = next->next;//2-1
+            prev->next = next;
+            curr->next = next->next;
             next->next = curr;
 
             prev = curr;
+            //forward
 
         }
         return dummy.next;
     }
 };
+// Step 1: Link the previous structure to the second node of the pair
+// Step 2: Connect the first node to the rest of the remaining list
+// Step 3: Turn the second node back around to point to the first node
