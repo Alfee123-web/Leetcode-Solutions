@@ -21,14 +21,12 @@ public:
     }
     
     int top() {
-        
         return st.top();
     }
     
     int getMin() {
-         return min_st.top();
+       return min_st.top();
     }
-
 };
 
 /**
