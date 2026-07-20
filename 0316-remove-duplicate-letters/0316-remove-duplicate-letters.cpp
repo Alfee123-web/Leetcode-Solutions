@@ -1,30 +1,34 @@
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
-//freq count
-        vector<int> freq(26, 0);
+        vector<int> count(26, 0);
+        vector<bool> instack(26, false);
         for (char ch : s) {
-
-            freq[ch - 'a']++;
+            count[ch - 'a']++;
         }
-        //track vis element
-        vector<bool> res(26, false);
+        std::stack<char> st;
+
+        for (char ch : s) {
+            count[ch - 'a']--;
+
+            if (instack[ch - 'a'])
+                continue;
+            // order maintain
+            while (!st.empty() && st.top() > ch && count[st.top() - 'a'] > 0) {
+                instack[st.top() - 'a'] = false;
+                st.pop();
+            }
+            // insert curr element
+            st.push(ch);
+            instack[ch - 'a'] = true;
+        }
         string ans = "";
-        for (char ch : s) {
-            freq[ch - 'a']--;
+        while (!st.empty()) {
+            ans += st.top();
+            st.pop();
+        }
+        reverse(ans.begin(), ans.end());
 
-        if (res[ch - 'a']) {
-            continue;
-        }
-        //Lexicographical Order
-        while(!ans.empty() && ans.back() > ch && freq[ans.back()-'a'] > 0){
-            res[ans.back()-'a']=  false;
-            ans.pop_back();
-        }
-        ans.push_back(ch);
-        res[ch - 'a'] = true;
+        return ans;
     }
-    return ans;
-}
-}
-;
+};
