@@ -22,6 +22,7 @@ public:
                 }
                 else {
                     st.push(stoi(tokens[i]));
+                    //string to integer
                 }
             }
             return st.top();
