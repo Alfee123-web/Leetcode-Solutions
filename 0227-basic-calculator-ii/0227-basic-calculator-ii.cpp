@@ -4,17 +4,12 @@ public:
         stack<int> st;
         int currN = 0;
         char sign = '+';
-        //prev op we saw
-
         for (int i = 0; i < s.length(); i++) {
             char ch = s[i];
-
             if (isdigit(ch)) {
                 currN = currN * 10 + (ch - '0');
             }
-
             if ((!isdigit(ch) && ch != ' ') || i == s.length() - 1) {
-
                 if (sign == '+')
                     st.push(currN);
                 else if (sign == '-')
@@ -28,18 +23,15 @@ public:
                     st.pop();
                     st.push(top / currN);
                 }
-
                 sign = ch;
                 currN = 0;
             }
         }
-
         int ans = 0;
         while (!st.empty()) {
             ans += st.top();
             st.pop();
         }
-
-        return ans; // 3 2
+        return ans;
     }
 };
