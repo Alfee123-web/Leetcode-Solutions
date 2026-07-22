@@ -6,9 +6,9 @@ public:
         for(int i = 0; i< s.length(); i++){
             char ch = s[i];
             if(ch == '('){
-                o.push(ch);
+                o.push(i);
             }else if(ch == '*'){
-                st.push(ch);
+                st.push(i);
             }else{
                 if(!o.empty()){
                     o.pop();
