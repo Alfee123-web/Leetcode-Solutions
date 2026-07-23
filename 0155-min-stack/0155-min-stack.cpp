@@ -1,6 +1,8 @@
 class MinStack {
     std::stack<int>st;
     std::stack<int>min_st;
+    
+    
 public:
     MinStack() {
         
@@ -9,10 +11,13 @@ public:
     void push(int value) {
         st.push(value);
         if(min_st.empty()){
-            min_st.push(value);
+             min_st.push(st.top());
+     
         }else{
             min_st.push(std::min(value , min_st.top()));
         }
+     
+
     }
     
     void pop() {
@@ -25,7 +30,7 @@ public:
     }
     
     int getMin() {
-       return min_st.top();
+        return min_st.top();
     }
 };
 
