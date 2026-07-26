@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Alfee123-web/Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alfee123-web/Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Alfee123-web/Questions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Alfee123-web/Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/Alfee123-web/Questions/tree/master/1920-build-array-from-permutation) |
