@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Alfee123-web/Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Alfee123-web/Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3536-maximum-product-of-two-digits](https://github.com/Alfee123-web/Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Alfee123-web/Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
