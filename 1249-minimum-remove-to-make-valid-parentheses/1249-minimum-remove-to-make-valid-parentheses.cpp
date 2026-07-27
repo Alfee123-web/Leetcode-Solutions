@@ -6,26 +6,24 @@ public:
             char ch = s[i];
             if (ch == '(') {
                 st.push(i);
-
             } else if (ch == ')') {
-                if (!st.empty() ) {
+                if (!st.empty()) {
                     st.pop();
-                }else{
+                } else {
                     s[i] = '*';
                 }
             }
         }
-        while(!st.empty()){
+        while (!st.empty()) {
             s[st.top()] = '*';
             st.pop();
         }
         string ans = "";
-        for(char ch : s){
-            if(ch != '*'){
+        for (char ch : s) {
+            if (ch != '*') {
                 ans += ch;
             }
         }
-       
         return ans;
     }
 };
