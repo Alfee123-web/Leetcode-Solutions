@@ -1,25 +1,33 @@
+class Car{
+    public:
+    Car(int pos , int s){
+        this->pos = pos;
+        this-> s = s;
+    }
+    int pos;
+    int s;
+};
+
 class Solution {
 public:
     int carFleet(int target, vector<int>& position, vector<int>& speed) {
-        int n = position.size();
-        std::vector<std::pair<int,int>>cars(n);
-        for(int i = 0; i< n ;i++){
-            cars[i] = {position[i] , speed[i]};
+        vector<Car>cars;
+        int N = position.size();
+        for(int i = 0 ; i < N ;i++){
+            cars.emplace_back(position.at(i),speed.at(i));
         }
-        std::sort(cars.begin(),cars.end(),[](const auto &a , const auto&b){
-        return a.first > b.first;
-        //descending order sort by car position
-    });
-        int fleet = 0;
-        double maxT = 0.0;
-        for(int i = 0; i < n ; i++){
-            double time = (double)(target-cars[i].first)/cars[i].second;
-            //time = target - pos / speed
-            if(time > maxT){
-                maxT = time;
-                fleet++;
+        sort(cars.begin(),cars.end(),[](const Car& a , const Car& b){
+  return a.pos<b.pos;
+        });
+        stack<float>st;
+        for(int i = 0; i < N;i++){
+            float time = 
+            (target - cars.at(i).pos)/(float)cars.at(i).s;
+            while(!st.empty() && time >= st.top()){
+                st.pop();
             }
+            st.push(time);
         }
-return fleet;
+return st.size();
     }
 };
