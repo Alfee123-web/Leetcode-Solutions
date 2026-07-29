@@ -1,7 +1,7 @@
 class Solution {
 public:
     string removeStars(string s) {
-        stack<char>st;
+        stack<int>st;
         for(char ch : s){
             if(ch == '*'){
                 st.pop();
@@ -17,4 +17,5 @@ public:
         reverse(ans.begin(),ans.end());
         return ans;
     }
+
 };
