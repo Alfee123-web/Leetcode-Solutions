@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Alfee123-web/Questions/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alfee123-web/Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Alfee123-web/Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Alfee123-web/Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfee123-web/Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfee123-web/Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Alfee123-web/Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Alfee123-web/Questions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alfee123-web/Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
