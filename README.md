@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Alfee123-web/Questions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Alfee123-web/Questions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Alfee123-web/Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alfee123-web/Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Alfee123-web/Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Alfee123-web/Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Alfee123-web/Questions/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Alfee123-web/Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alfee123-web/Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
