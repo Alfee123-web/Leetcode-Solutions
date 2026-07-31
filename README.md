@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Alfee123-web/Questions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Alfee123-web/Questions/tree/master/0303-range-sum-query-immutable) |
+| [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Alfee123-web/Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alfee123-web/Questions/tree/master/0503-next-greater-element-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfee123-web/Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
+| [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alfee123-web/Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alfee123-web/Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Alfee123-web/Questions/tree/master/0739-daily-temperatures) |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfee123-web/Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
