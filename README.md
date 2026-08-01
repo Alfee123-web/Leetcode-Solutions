@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Alfee123-web/Questions/tree/master/0303-range-sum-query-immutable) |
 | [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Alfee123-web/Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Alfee123-web/Questions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Alfee123-web/Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Alfee123-web/Questions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Alfee123-web/Questions/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alfee123-web/Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Alfee123-web/Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Alfee123-web/Questions/tree/master/0901-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
