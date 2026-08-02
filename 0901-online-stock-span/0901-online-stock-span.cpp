@@ -3,19 +3,20 @@ class StockSpanner {
     //price,span
 public:
     StockSpanner() {
-
+        
     }
     
     int next(int price) {
         int span =1;
-        while(!st.empty() && price >= st.top().first){
-                 span += st.top().second;
-                 st.pop();
-
+        while(!st.empty() && st.top().first <= price){
+            span += st.top().second;
+            st.pop();
         }
-        st.push({price,span});
-        return span;
+            st.push({price,span});
+              return span;
     }
+  
+
 };
 
 /**
