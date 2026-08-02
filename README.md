@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Alfee123-web/Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Alfee123-web/Questions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Alfee123-web/Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Alfee123-web/Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alfee123-web/Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Alfee123-web/Questions/tree/master/1768-merge-strings-alternately) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Alfee123-web/Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Alfee123-web/Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Alfee123-web/Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Alfee123-web/Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/Alfee123-web/Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Alfee123-web/Questions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Alfee123-web/Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Alfee123-web/Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
