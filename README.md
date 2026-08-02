@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Alfee123-web/Questions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Alfee123-web/Questions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Alfee123-web/Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Alfee123-web/Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alfee123-web/Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Alfee123-web/Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -369,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
