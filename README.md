@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Alfee123-web/Questions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Alfee123-web/Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Alfee123-web/Questions/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Alfee123-web/Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Alfee123-web/Questions/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Alfee123-web/Questions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Alfee123-web/Questions/tree/master/0933-number-of-recent-calls) |
 ## Game Theory
 |  |
 | ------- |
