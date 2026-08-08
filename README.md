@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Alfee123-web/Questions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Alfee123-web/Questions/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alfee123-web/Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alfee123-web/Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alfee123-web/Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
