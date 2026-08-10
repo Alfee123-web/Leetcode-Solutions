@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Alfee123-web/Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Alfee123-web/Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Alfee123-web/Questions/tree/master/0525-contiguous-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Alfee123-web/Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Alfee123-web/Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alfee123-web/Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Alfee123-web/Questions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Alfee123-web/Questions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Alfee123-web/Questions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Alfee123-web/Questions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Alfee123-web/Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfee123-web/Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -415,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alfee123-web/Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
