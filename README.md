@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Alfee123-web/Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Alfee123-web/Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Alfee123-web/Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Alfee123-web/Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Alfee123-web/Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alfee123-web/Questions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Alfee123-web/Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Alfee123-web/Questions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Alfee123-web/Questions/tree/master/0125-valid-palindrome) |
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Alfee123-web/Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
