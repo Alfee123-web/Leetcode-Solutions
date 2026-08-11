@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Alfee123-web/Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alfee123-web/Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Alfee123-web/Questions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Alfee123-web/Questions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Alfee123-web/Questions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alfee123-web/Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Alfee123-web/Questions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Alfee123-web/Questions/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Alfee123-web/Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Alfee123-web/Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Ternary Search
 |  |
@@ -466,4 +470,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Alfee123-web/Questions/tree/master/0090-subsets-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
