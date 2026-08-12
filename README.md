@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Alfee123-web/Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Alfee123-web/Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Alfee123-web/Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Alfee123-web/Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Alfee123-web/Questions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Alfee123-web/Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Alfee123-web/Questions/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Alfee123-web/Questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Alfee123-web/Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Alfee123-web/Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Alfee123-web/Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Alfee123-web/Questions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
