@@ -504,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Alfee123-web/Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
