@@ -4,17 +4,18 @@ public:
         string ans ="";
         for(char ch : s){
             if(isalnum(ch)){
-                ans += tolower(ch);
+               ans += tolower(ch);
             }
         }
-        int i = 0;
-        int j = ans.length()-1;
-        while(i < j ){
+        int i =0;
+        int j =ans.length()-1;
+        while(i < j){
             if(ans[i] != ans[j]){
-                return false;
+               return false;
+              
             }
-            i++;
-            j--;
+             i++;
+               j--;
         }
         return true;
     }
