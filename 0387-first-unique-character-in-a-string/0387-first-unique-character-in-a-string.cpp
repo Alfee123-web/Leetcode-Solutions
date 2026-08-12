@@ -5,16 +5,11 @@ public:
         for(char ch : s){
             freq[ch-'a']++;
         }
-        stack<int>st;
-        for(int i = s.length()-1; i >= 0;i--){
+        for(int i = 0; i < s.length();i++){
             if(freq[s[i]-'a'] == 1){
-                st.push(i);
+                return i;
             }
-            }
-
-            if(st.empty()){
-                return -1;
-            }
-        return st.top();
+        }
+        return -1;
     }
 };
