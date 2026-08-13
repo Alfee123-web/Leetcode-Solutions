@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Alfee123-web/Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Alfee123-web/Questions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Alfee123-web/Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Alfee123-web/Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Alfee123-web/Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Alfee123-web/Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Alfee123-web/Questions/tree/master/0090-subsets-ii) |
 ## Primality Test
@@ -531,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Alfee123-web/Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Alfee123-web/Questions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
