@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Alfee123-web/Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Alfee123-web/Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Alfee123-web/Questions/tree/master/0136-single-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Alfee123-web/Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Alfee123-web/Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Alfee123-web/Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Alfee123-web/Questions/tree/master/0227-basic-calculator-ii) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Alfee123-web/Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Alfee123-web/Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Alfee123-web/Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Alfee123-web/Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Alfee123-web/Questions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Alfee123-web/Questions/tree/master/0204-count-primes) |
