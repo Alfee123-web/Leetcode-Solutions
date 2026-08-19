@@ -1,39 +1,35 @@
 class MyQueue {
-    std::stack<int>i;
-    std::stack<int>o;
-    void shift(){
-    if(o.empty()){
-        while(!i.empty()){
-            o.push(i.top());
-            i.pop();
-        }
-    }
-    }
 public:
+    stack<int>input;
+    stack<int>output;
     MyQueue() {
         
     }
     
     void push(int x) {
-        i.push(x);
+        input.push(x);
+
     }
     
     int pop() {
-        shift();
-        int front = o.top();
-        o.pop();
-        return front;
-
+        peek();
+        int p = output.top();
+        output.pop();
+        return p;
     }
     
     int peek() {
-        shift();
-        return o.top();
-
+        if(output.empty()){
+            while(!input.empty()){
+                output.push(input.top());
+                input.pop();
+            }
+        }
+        return output.top();
     }
     
     bool empty() {
-        return i.empty() && o.empty();
+        return input.empty() && output.empty();
     }
 };
 
