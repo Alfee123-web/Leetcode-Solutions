@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Alfee123-web/Questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Alfee123-web/Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Alfee123-web/Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Alfee123-web/Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2390-removing-stars-from-a-string](https://github.com/Alfee123-web/Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Alfee123-web/Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Alfee123-web/Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Alfee123-web/Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Design
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Alfee123-web/Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Alfee123-web/Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Alfee123-web/Questions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/Alfee123-web/Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Matrix
 |  |
 | ------- |
