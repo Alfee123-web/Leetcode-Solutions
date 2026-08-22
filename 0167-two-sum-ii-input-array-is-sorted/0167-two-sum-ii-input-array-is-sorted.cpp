@@ -1,15 +1,16 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int>mp;
-        const int offset = 1000;
-        // shift upto 1000
-        for(int i = 0; i< nums.size();i++){
-            int comp = target - nums[i];
-            if( comp <= 1000 && comp >= -1000 &&mp.find(comp + offset) != mp.end()){
-                return {mp[comp + offset] + 1 , i+1};
+    vector<int> twoSum(vector<int>& numbers, int target) {
+        int i = 0;
+        int j = numbers.size()-1;
+        while(i <  j){
+            if(numbers[i] + numbers[j] == target){
+                return { i+1 , j +1};
+            }else if(numbers[i] + numbers[j] > target){
+                   j--;
+            }else{
+                i++;
             }
-            mp[nums[i] + offset] = i;
         }
         return {};
     }
