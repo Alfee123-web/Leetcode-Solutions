@@ -1,17 +1,17 @@
 class Solution {
 public:
     int numRescueBoats(vector<int>& people, int limit) {
-        sort(people.begin() , people.end());
-        int k = 0;
-        int l = 0;
-        int r = people.size()-1;
-        while(l <= r){
-            if(people[l] + people[r] <= limit){
-                l++;
+        sort(people.begin(),people.end());
+        int i =0;
+        int j = people.size()-1;
+        int b =0;
+        while(i <= j){
+            if(people[i] + people[j] <= limit){
+                i++;
             }
-            r--;
-            k++;
+            j--;
+            b++;
         }
-  return k;
+        return b;
     }
 };
