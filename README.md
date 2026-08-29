@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Alfee123-web/Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Alfee123-web/Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/Alfee123-web/Questions/tree/master/2404-most-frequent-even-element) |
+| [2460-apply-operations-to-an-array](https://github.com/Alfee123-web/Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alfee123-web/Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alfee123-web/Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Alfee123-web/Questions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alfee123-web/Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/Alfee123-web/Questions/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Alfee123-web/Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Alfee123-web/Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2390-removing-stars-from-a-string](https://github.com/Alfee123-web/Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/Alfee123-web/Questions/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Alfee123-web/Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
