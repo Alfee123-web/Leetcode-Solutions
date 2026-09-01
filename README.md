@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Alfee123-web/Questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Alfee123-web/Questions/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Alfee123-web/Questions/tree/master/0704-binary-search) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Alfee123-web/Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Alfee123-web/Questions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Alfee123-web/Questions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Alfee123-web/Questions/tree/master/0509-fibonacci-number) |
