@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Alfee123-web/Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Alfee123-web/Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Alfee123-web/Questions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Alfee123-web/Questions/tree/master/0658-find-k-closest-elements) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Alfee123-web/Questions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Alfee123-web/Questions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Alfee123-web/Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Alfee123-web/Questions/tree/master/0509-fibonacci-number) |
