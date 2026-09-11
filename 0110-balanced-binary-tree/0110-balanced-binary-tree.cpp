@@ -13,7 +13,7 @@ class Solution {
     int dfs(TreeNode *root){
         if(root == NULL) return 0;
          int l = dfs(root->left);
-         if(l == -1) return -1;
+         if(l == -1) return -1;//short circuit 
         int r = dfs(root->right);
         if(r == -1) return -1;
         if(abs(l-r) > 1) return -1;
