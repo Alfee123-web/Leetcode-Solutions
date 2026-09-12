@@ -16,9 +16,7 @@ public:
         if(root == NULL) return NULL;//base case
          invertTree(root->left);
          invertTree(root->right);
-
-       
-              swap(root->left,root->right);
+         swap(root->left,root->right);
         
         return root;
     }
