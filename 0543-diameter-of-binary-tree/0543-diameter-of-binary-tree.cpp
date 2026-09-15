@@ -27,3 +27,6 @@ public:
        
     }
 };
+//l + r calculates the length of the longest path that passes through the current node as the highest point (bending from the left child down through the node to the right child).
+
+//1 + max(l, r) passes the actual height of the current subtree up to the parent so it can calculate its own paths correctly.
