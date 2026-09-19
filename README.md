@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Alfee123-web/Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Alfee123-web/Questions/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Alfee123-web/Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Alfee123-web/Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Alfee123-web/Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/Alfee123-web/Questions/tree/master/1920-build-array-from-permutation) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Alfee123-web/Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Alfee123-web/Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Alfee123-web/Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Alfee123-web/Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Design
 |  |
