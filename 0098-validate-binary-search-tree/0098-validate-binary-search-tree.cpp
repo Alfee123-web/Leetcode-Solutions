@@ -27,3 +27,6 @@ public:
        
     }
 };
+// if(!inOrder(root->left,prev)) return false;
+//recursively dives down as far left as possible. If any call down the left branch returns false (meaning a violation was found), it immediately stops and propagates false all the way back up.
+
