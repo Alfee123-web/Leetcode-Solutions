@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Alfee123-web/Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Alfee123-web/Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Alfee123-web/Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Alfee123-web/Questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Alfee123-web/Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Alfee123-web/Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Alfee123-web/Questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Alfee123-web/Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Alfee123-web/Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
