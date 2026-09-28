@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Alfee123-web/Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Alfee123-web/Questions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Alfee123-web/Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Alfee123-web/Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Alfee123-web/Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Alfee123-web/Questions/tree/master/0078-subsets) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Alfee123-web/Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Alfee123-web/Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Alfee123-web/Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Alfee123-web/Questions/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Alfee123-web/Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Alfee123-web/Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Alfee123-web/Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Alfee123-web/Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Alfee123-web/Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Alfee123-web/Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
