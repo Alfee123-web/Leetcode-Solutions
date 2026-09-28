@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alfee123-web/Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Alfee123-web/Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Alfee123-web/Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Alfee123-web/Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Alfee123-web/Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
