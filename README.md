@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Alfee123-web/Questions/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Alfee123-web/Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Alfee123-web/Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Alfee123-web/Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/Alfee123-web/Questions/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Alfee123-web/Questions/tree/master/2460-apply-operations-to-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alfee123-web/Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfee123-web/Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2404-most-frequent-even-element](https://github.com/Alfee123-web/Questions/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Alfee123-web/Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
