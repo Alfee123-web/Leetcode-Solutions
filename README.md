@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Alfee123-web/Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Alfee123-web/Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/Alfee123-web/Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfee123-web/Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Alfee123-web/Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Alfee123-web/Questions/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Alfee123-web/Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
