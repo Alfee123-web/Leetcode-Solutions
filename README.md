@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Alfee123-web/Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Alfee123-web/Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Alfee123-web/Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Alfee123-web/Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2404-most-frequent-even-element](https://github.com/Alfee123-web/Questions/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Alfee123-web/Questions/tree/master/2460-apply-operations-to-an-array) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Alfee123-web/Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Alfee123-web/Questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Alfee123-web/Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
