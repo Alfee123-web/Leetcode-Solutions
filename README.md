@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Alfee123-web/Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Alfee123-web/Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
