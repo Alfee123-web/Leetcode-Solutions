@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Alfee123-web/Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Alfee123-web/Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Alfee123-web/Questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Alfee123-web/Questions/tree/master/0125-valid-palindrome) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alfee123-web/Questions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Alfee123-web/Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Alfee123-web/Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Alfee123-web/Questions/tree/master/0118-pascals-triangle) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Alfee123-web/Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Alfee123-web/Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Alfee123-web/Questions/tree/master/0090-subsets-ii) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alfee123-web/Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
