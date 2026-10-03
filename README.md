@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Alfee123-web/Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Alfee123-web/Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Alfee123-web/Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Alfee123-web/Questions/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Alfee123-web/Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Alfee123-web/Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Alfee123-web/Questions/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/Alfee123-web/Questions/tree/master/0978-longest-turbulent-subarray) |
