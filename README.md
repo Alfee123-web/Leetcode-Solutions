@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Alfee123-web/Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alfee123-web/Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Alfee123-web/Questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alfee123-web/Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alfee123-web/Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Alfee123-web/Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Alfee123-web/Questions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Alfee123-web/Questions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Alfee123-web/Questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alfee123-web/Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Alfee123-web/Questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Alfee123-web/Questions/tree/master/0680-valid-palindrome-ii) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Alfee123-web/Questions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Alfee123-web/Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Alfee123-web/Questions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Alfee123-web/Questions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Alfee123-web/Questions/tree/master/0696-count-binary-substrings) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Alfee123-web/Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Alfee123-web/Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Alfee123-web/Questions/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/Alfee123-web/Questions/tree/master/0978-longest-turbulent-subarray) |
