@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Alfee123-web/Questions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Alfee123-web/Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Alfee123-web/Questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Alfee123-web/Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Alfee123-web/Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Alfee123-web/Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Alfee123-web/Questions/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Primality Test
 |  |
 | ------- |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Alfee123-web/Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Alfee123-web/Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Alfee123-web/Questions/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Alfee123-web/Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0637-average-of-levels-in-binary-tree) |
