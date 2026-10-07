@@ -20,3 +20,5 @@ public:
         return maxL;
     }
 };
+//The formula (r - l + 1) - maxF calculates how many characters need to be replaced. 
+//(Total window length- the count of the majority character).
