@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Alfee123-web/Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Alfee123-web/Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1014-best-sightseeing-pair](https://github.com/Alfee123-web/Questions/tree/master/1014-best-sightseeing-pair) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Alfee123-web/Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Alfee123-web/Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Alfee123-web/Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alfee123-web/Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Alfee123-web/Questions/tree/master/0946-validate-stack-sequences) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Alfee123-web/Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Alfee123-web/Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Alfee123-web/Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Alfee123-web/Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Alfee123-web/Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Alfee123-web/Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Alfee123-web/Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1025,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Alfee123-web/Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
