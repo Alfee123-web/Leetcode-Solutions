@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Alfee123-web/Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Alfee123-web/Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Alfee123-web/Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfee123-web/Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Alfee123-web/Questions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Alfee123-web/Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1763-longest-nice-substring](https://github.com/Alfee123-web/Questions/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Alfee123-web/Questions/tree/master/0978-longest-turbulent-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/Alfee123-web/Questions/tree/master/1014-best-sightseeing-pair) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Alfee123-web/Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Alfee123-web/Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/Alfee123-web/Questions/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Design
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Alfee123-web/Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Alfee123-web/Questions/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Alfee123-web/Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/Alfee123-web/Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Alfee123-web/Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Alfee123-web/Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
@@ -831,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Alfee123-web/Questions/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quicksort
 |  |
 | ------- |
@@ -923,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -1038,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## String Matching
@@ -1067,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -1100,4 +1109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Alfee123-web/Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Alfee123-web/Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
