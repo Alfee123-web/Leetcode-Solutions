@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Alfee123-web/Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Alfee123-web/Questions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Alfee123-web/Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Alfee123-web/Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Alfee123-web/Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Alfee123-web/Questions/tree/master/0443-string-compression) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Alfee123-web/Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Alfee123-web/Questions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Alfee123-web/Questions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Alfee123-web/Questions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Alfee123-web/Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Alfee123-web/Questions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Alfee123-web/Questions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Alfee123-web/Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Alfee123-web/Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
