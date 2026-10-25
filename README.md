@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Alfee123-web/Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Alfee123-web/Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Alfee123-web/Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Alfee123-web/Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Alfee123-web/Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Alfee123-web/Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Alfee123-web/Questions/tree/master/1672-richest-customer-wealth) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Alfee123-web/Questions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Alfee123-web/Questions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Alfee123-web/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -1162,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Alfee123-web/Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Alfee123-web/Questions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
