@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alfee123-web/Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/Alfee123-web/Questions/tree/master/0978-longest-turbulent-subarray) |
+| [0994-rotting-oranges](https://github.com/Alfee123-web/Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Alfee123-web/Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Alfee123-web/Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1014-best-sightseeing-pair](https://github.com/Alfee123-web/Questions/tree/master/1014-best-sightseeing-pair) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Alfee123-web/Questions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Alfee123-web/Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Alfee123-web/Questions/tree/master/1572-matrix-diagonal-sum) |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Alfee123-web/Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0965-univalued-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Alfee123-web/Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
