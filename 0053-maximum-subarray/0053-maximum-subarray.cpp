@@ -1,12 +1,13 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int currS = nums[0];
-        int maxS = nums[0];
-        for(int i = 1; i< nums.size();i++){
-            currS = max(nums[i] , currS + nums[i]);
-            maxS = max(maxS , currS);
+        //kadanes algorithm
+        int c = nums[0];
+        int ms = nums[0];
+        for(int i = 1; i < nums.size(); i++){
+            c = max(nums[i] , c + nums[i]);
+            ms = max(ms , c);
         }
-        return maxS;
+        return ms;
     }
 };
