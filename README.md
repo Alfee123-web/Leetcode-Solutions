@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Alfee123-web/Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Alfee123-web/Questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alfee123-web/Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0752-open-the-lock](https://github.com/Alfee123-web/Questions/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alfee123-web/Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/Alfee123-web/Questions/tree/master/0853-car-fleet) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Alfee123-web/Questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alfee123-web/Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Alfee123-web/Questions/tree/master/0690-employee-importance) |
+| [0752-open-the-lock](https://github.com/Alfee123-web/Questions/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/Alfee123-web/Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Alfee123-web/Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Alfee123-web/Questions/tree/master/1512-number-of-good-pairs) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Alfee123-web/Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Alfee123-web/Questions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Alfee123-web/Questions/tree/master/0696-count-binary-substrings) |
+| [0752-open-the-lock](https://github.com/Alfee123-web/Questions/tree/master/0752-open-the-lock) |
 | [0844-backspace-string-compare](https://github.com/Alfee123-web/Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Alfee123-web/Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Alfee123-web/Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Alfee123-web/Questions/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Alfee123-web/Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Alfee123-web/Questions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Alfee123-web/Questions/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Alfee123-web/Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/Alfee123-web/Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -1203,4 +1207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Alfee123-web/Questions/tree/master/0069-sqrtx) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Alfee123-web/Questions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
