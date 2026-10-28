@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Alfee123-web/Questions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Alfee123-web/Questions/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/Alfee123-web/Questions/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Alfee123-web/Questions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Alfee123-web/Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Alfee123-web/Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Alfee123-web/Questions/tree/master/0724-find-pivot-index) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Alfee123-web/Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Alfee123-web/Questions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Alfee123-web/Questions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Alfee123-web/Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Alfee123-web/Questions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Alfee123-web/Questions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Alfee123-web/Questions/tree/master/0867-transpose-matrix) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Alfee123-web/Questions/tree/master/0669-trim-a-binary-search-tree) |
 | [0690-employee-importance](https://github.com/Alfee123-web/Questions/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Alfee123-web/Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Alfee123-web/Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Alfee123-web/Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/Alfee123-web/Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Alfee123-web/Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Alfee123-web/Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0690-employee-importance](https://github.com/Alfee123-web/Questions/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/Alfee123-web/Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Alfee123-web/Questions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Alfee123-web/Questions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/Alfee123-web/Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -1178,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Alfee123-web/Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Alfee123-web/Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Alfee123-web/Questions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Alfee123-web/Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Alfee123-web/Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
