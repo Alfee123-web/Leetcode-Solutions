@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Alfee123-web/Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Alfee123-web/Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Alfee123-web/Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Alfee123-web/Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Alfee123-web/Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfee123-web/Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Alfee123-web/Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Alfee123-web/Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1205,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Alfee123-web/Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alfee123-web/Questions/tree/master/0210-course-schedule-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Alfee123-web/Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Alfee123-web/Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1223,4 +1226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Alfee123-web/Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Alfee123-web/Questions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Alfee123-web/Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
