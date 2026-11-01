@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Alfee123-web/Questions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Alfee123-web/Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/Alfee123-web/Questions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Alfee123-web/Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/Alfee123-web/Questions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Alfee123-web/Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Alfee123-web/Questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Alfee123-web/Questions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Alfee123-web/Questions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Alfee123-web/Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Alfee123-web/Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Alfee123-web/Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Alfee123-web/Questions/tree/master/0523-continuous-subarray-sum) |
