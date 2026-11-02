@@ -1,16 +1,15 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int min_val = nums[0];
-        for (int num : nums) {
-            min_val = min(min_val, num);
+        int n = nums.size();
+        int minV = INT_MAX;
+        for(int i = 0; i < n ; i++){
+               minV = min(minV , nums[i]);
         }
-        
         int moves = 0;
-        for (int num : nums) {
-            moves += (num - min_val);
+        for(int i = 0; i < n ; i++){
+                moves += nums[i] - minV;
         }
-        
         return moves;
     }
 };
