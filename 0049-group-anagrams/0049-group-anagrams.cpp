@@ -1,29 +1,23 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        int n = strs.size();
-
-        vector<pair<string,int>>sortedstrs(n);
-
-        for(int i = 0; i < n ; i++){
-            string s = strs[i];
-            sort(s.begin(),s.end());
-            sortedstrs[i] = {s,i};
+        unordered_map<string , vector<string>>mp;
+        for(string s : strs){
+            string sortedStr = s;
+            sort(sortedStr.begin() , sortedStr.end());
+            mp[sortedStr].push_back(s);
         }
-            sort(sortedstrs.begin(),sortedstrs.end());
+        vector<vector<string>>ans;
+        for(auto& pair : mp){
+            ans.push_back(pair.second);
+        }
+        return ans;
 
-            vector<vector<string>>res;
-            vector<string>currGrp;
-
-            for(int i = 0; i < n ; i++){
-                currGrp.push_back(strs[sortedstrs[i].second]);
-
-                if(i == n-1 || sortedstrs[i].first != sortedstrs[i+1].first){
-                    res.push_back(currGrp);
-                    currGrp.clear();
-                }
-            }
-            return res;
-        
     }
 };
+//MAP STATE
+// {
+//   "aet": ["eat", "tea", "ate"],
+//   "ant": ["tan", "nat"],
+//   "abt": ["bat"]
+// }
