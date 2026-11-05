@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Alfee123-web/Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Alfee123-web/Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/Alfee123-web/Questions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Alfee123-web/Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Alfee123-web/Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Alfee123-web/Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Alfee123-web/Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Alfee123-web/Questions/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Alfee123-web/Questions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Alfee123-web/Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Alfee123-web/Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Alfee123-web/Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alfee123-web/Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Alfee123-web/Questions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Alfee123-web/Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Alfee123-web/Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Alfee123-web/Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Alfee123-web/Questions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alfee123-web/Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Alfee123-web/Questions/tree/master/2460-apply-operations-to-an-array) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alfee123-web/Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Alfee123-web/Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Alfee123-web/Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Alfee123-web/Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alfee123-web/Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Alfee123-web/Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Alfee123-web/Questions/tree/master/3312-sorted-gcd-pair-queries) |
